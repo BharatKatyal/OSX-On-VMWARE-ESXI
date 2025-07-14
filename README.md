@@ -13,7 +13,8 @@ This guide shows how to create a bootable macOS installer for VMware ESXi. Based
 
 ## Step 1: Download macOS Installer
 Go to the Mac App Store and download the macOS installer. If you can't download the current version directly, you may need to download a previous version first.
-
+**IMPORTANT:**  DO NOT CLICK CONTINUE WHEN THE INSTALL OSX SCREEN COMES Up 
+![OSX Installation Screen](OSXScreen.png)
 **Note:** If there's a workaround for downloading the current version directly, please update this section.
 
 ## Step 2: Create Bootable Installer
